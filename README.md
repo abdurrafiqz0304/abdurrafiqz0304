@@ -5,7 +5,7 @@
 - 📫 Reach me at abdurrafiq@graduate.utm.my
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: I'm from pure science student and like new things related to Physics, Maths, Science Computer and Astronomy.
-                I'm also an active person! don't scare with me!
+                I'm also an active person! do not scared with me!
 
 <!---
 abdurrafiqz0304/abdurrafiqz0304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
